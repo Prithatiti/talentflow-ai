@@ -4,6 +4,14 @@
 
 ---
 
+## 🛠️ Technical Architecture
+
+<p align="center">
+  <img src=".architecture diagram\Talentflow_AI Architectural Diagram.png" alt="TalentFlow AI Architecture" width="100%">
+</p>
+
+---
+
 ## 🚀 Key Features
 
 ### 1. 🔍 Smart Resume Screening
