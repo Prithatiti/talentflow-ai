@@ -1,0 +1,27 @@
+[project]
+name = "talentflow-ai"
+version = "0.1.0"
+description = "An end-to-end AI recruitment assistant for resume screening, JD generation, and automated interviewing."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "fastapi>=0.128.0",
+    "google-genai>=1.58.0",
+    "google-generativeai>=0.8.6",
+    "groq>=0.37.1",
+    "langchain>=1.2.5",
+    "langchain-google-genai>=4.2.0",
+    "langchain-groq>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "openai>=2.15.0",
+    "pandas>=2.3.3",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.2.1",
+    "python-multipart>=0.0.21",
+    "requests>=2.32.5",
+    "sentence-transformers>=5.2.0",
+    "streamlit>=1.53.0",
+    "uvicorn>=0.40.0",
+]
