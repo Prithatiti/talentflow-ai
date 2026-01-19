@@ -63,8 +63,10 @@ cd talentflow-ai
 ### 2. Set Up Virtual Environment
 ```bash
 python -m venv venv
+
 # Windows
 venv\Scripts\activate
+
 # Mac/Linux
 source venv/bin/activate
 ```
@@ -102,9 +104,10 @@ streamlit run app.py
 
 
 Access the app at: http://localhost:8501
-
+```
 ## 📂 Project Structure
 
+```
 talentflow-ai/
 ├── backend/
 │   ├── main.py           # FastAPI Entry Point
